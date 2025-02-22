@@ -1,5 +1,10 @@
+numpy
 pandas 
 numpy 
 seaborn 
 matplotlib
+ipykernel
+scikit-learn==1.5.2
+catboost
+xgboost
 -e .
